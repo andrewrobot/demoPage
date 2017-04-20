@@ -1,0 +1,48 @@
+.ui.container{
+    overflow: visible !important;
+}
+
+#logo1 {
+    height: 70px;
+    width: 70px;
+}
+
+#logo2 {
+    margin-bottom: 20px;
+    margin-top:  40px;    
+}
+
+.page-header {
+    background-color: #00588A; 
+    height: 70px;
+    overflow: hidden !important;
+}
+
+.home-menu {
+    overflow-y: visible !important;
+}
+
+.ui.stackable.menu {
+    height: 45px;
+}
+
+.ui.fluid.popup {
+    bottom: auto;
+    left: 1px; 
+    right: auto; 
+    top: 564.15px; 
+    width: 960px;
+}
+
+.ui.two.column.centered.grid {
+    display: none;
+}
+
+.news, .ui.two.column.stackable.grid {
+    margin-top: 30px;    
+}
+
+.info-table {
+    max-height:  296px !important;
+    overflow-y: auto !important;
+}

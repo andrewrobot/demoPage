@@ -1,0 +1,19 @@
+{
+    "meta": { 
+        "name": "my-server",
+        "operating system": "Linux",
+        "architecture": "x86",
+        "location": "Ottawa",
+        "num_cpu": 4
+    },   
+    
+    "known_users": [
+        {"name": "Andrew", "last_login": "2017-04-02"},
+        {"name": "Abdul", "last_login": "2017-04-04"},
+        {"name": "Ahmad", "last_login": "2017-04-06"},
+        {"name": "JB", "last_login": "2017-03-02"},
+        {"name": "Michael", "last_login": "2017-02-02"},
+        {"name": "Jim", "last_login": "2017-04-01"},
+        {"name": "Dwight", "last_login": "2017-04-02"}
+    ]        
+}
